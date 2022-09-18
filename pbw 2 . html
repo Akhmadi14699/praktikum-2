@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Akhmadi Tugas 2, a112214699</title>
+</head>
+<body>
+
+<h1 align="center"><mark>Belajar Memahami Jaringan</mark></h1>
+<p>Jaringan Komputer adalah sistem menghubungkan beberapa komputer untuk berbagai informasi (data) dan sumber daya. Untuk membuat jaringan, beberapa kompuer dengan perangkat lainnya disambungkan dengan menggunakan media kabel atau nirkabel.</p>
+<p><mark>Jenis-jenis jaringan kompuer </p>
+ <ul style="color:purple;">
+  <li>LAN</li>
+  <li>MAN</li>
+  <li>WAN</li>
+  <li>PAN</li>
+  <li>WLAN</li>
+  <li>CAN</li>
+  <li>SAN</li>
+  <li>POLAN</li>
+  <li>EPN</li>
+  <li>VPN</li>
+</ul> 
+ <a href="https://www.w3schools.com">Visit W3Schools</a> 
+ <img src="https://reginawati9f.files.wordpress.com/2016/12/wp-1480569308870.jpeg" widh="500" height="300">
+ <table>
+  <tr>
+    <th>Tabel Kolom 1</th>
+    <th>Tabel Kolom 2</th>
+    <th>Tabel Kolom 3</th>
+      <tr>
+    <td>provider</td>
+    <td>Kabel/nirkabel</td>
+    <td>ROUTER</td>
+  </tr>
+  </tr>
+  </table>
+</body>
+</html>
